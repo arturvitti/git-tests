@@ -25,7 +25,6 @@ wp-content/plugins/hello.php
 
 # Exclude the build products
 build/*
-*.[]
 
 # Exclude OS X folder attributes
 .DS_Store
