@@ -2,3 +2,11 @@ body {
   background: deeppink;
   padding: 0;
 }
+
+.ffk-headline {
+  background: greenyellow;
+}
+
+#ffk-id {
+  background: aquamarine;
+}
